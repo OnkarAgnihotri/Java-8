@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+h
+8src/test/java/com/group/Java8/Java8ApplicationTests.java,d\0\d0536c4b711a1103ce57cf8daec6dceb92ea49dd
+7
+HELP.md,1\a\1a273f73b7a477b0745593641bd708a6182c7ad5
+4
+mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
+U
+%.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+c
+3src/main/java/com/group/Java8/Java8Application.java,9\3\939ead1b363645d75c15a6bd9986048630d3b9f0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+w
+G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
+Å
+Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
+8
+mvnw.cmd,1\f\1f1763f358c257ea3515417352b82b0165647ad1
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
