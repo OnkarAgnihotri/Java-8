@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Java8Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Java8Application.class, args);
+		System.out.println("Hello Java8...!");
+//		SpringApplication.run(Java8Application.class, args);
 	}
 
 }
