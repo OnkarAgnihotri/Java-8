@@ -1,6 +1,6 @@
-package com.group.Java8.predicate;
+package com.group.Java8.lambdaExpressions;
 
-import com.group.Java8.Model.Student;
+import com.group.Java8.model.Student;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

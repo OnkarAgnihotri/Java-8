@@ -1,6 +1,7 @@
-package com.group.Java8.predicate;
+package com.group.Java8.lamdaExpressions;
 
-import com.group.Java8.Model.Student;
+import com.group.Java8.model.Student;
+import com.group.Java8.lambdaExpressions.Predicate;
 import org.junit.gen5.api.Assertions;
 import org.junit.jupiter.api.Test;
 import java.util.List;

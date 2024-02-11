@@ -1,4 +1,4 @@
-package com.group.Java8.Model;
+package com.group.Java8.model;
 
 import lombok.*;
 
